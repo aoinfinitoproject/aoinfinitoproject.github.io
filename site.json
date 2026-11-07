@@ -1,0 +1,44 @@
+{
+  "linkSite": "",
+  "proximaAcao": null,
+  "arrecadacao": {
+    "meta": null,
+    "arrecadado": 0,
+    "para": ""
+  },
+  "acoes": [],
+  "apoiadores": [],
+  "faq": [
+    {
+      "p": "O que é o Ao Infinito Project?",
+      "r": "É um projeto de ação social que nasceu para impulsionar as pessoas a fazer o bem."
+    },
+    {
+      "p": "Quem está por trás do projeto?",
+      "r": "O Ao Infinito é do Fletcher Bichara, estudante do ensino médio de Volta Redonda (RJ), apaixonado por estudos, voluntariado e idiomas."
+    },
+    {
+      "p": "Como posso ajudar?",
+      "r": "Siga o @aoinfinitoproject no Instagram, compartilhe o site com amigos e, se quiser, contribua com um PIX na aba Apoie."
+    },
+    {
+      "p": "Para onde vai o dinheiro das doações?",
+      "r": "Tudo o que é doado fica guardado em uma caixinha de renda fixa (CDB). Quando surge um evento ou uma proposta de ação, o valor necessário sai dessa caixinha para colocá-la em prática."
+    },
+    {
+      "p": "Como acompanho o que o projeto faz?",
+      "r": "Cada ação aparece na aba Ações, e as novidades saem primeiro no Instagram @aoinfinitoproject."
+    },
+    {
+      "p": "Posso ser voluntário ou doar itens?",
+      "r": "Sim! Você pode se tornar um voluntário ajudante para projetos futuros. Além disso, teremos dias específicos para doação de roupas e/ou alimentos. Mande uma mensagem no nosso Instagram, @aoinfinitoproject."
+    },
+    {
+      "p": "Como falo com o projeto sobre imprensa, parcerias ou dúvidas?",
+      "r": "Escreva para aoinfinitoproject@gmail.com. Você também pode mandar mensagem no Instagram @aoinfinitoproject."
+    }
+  ],
+  "impactados": null,
+  "historias": [],
+  "contato": "aoinfinitoproject@gmail.com"
+}
